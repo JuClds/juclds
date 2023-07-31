@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/juclds">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=juclds&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juclds&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juclds&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
